@@ -1,5 +1,5 @@
 package ex930;
-
+//다중 if문 비효율적 모든 코드를 읽으면서 내려가기 때문에 처리속도 느려짐 안씀
 public class IfExample {
 
 	public static void main(String[] args) {
