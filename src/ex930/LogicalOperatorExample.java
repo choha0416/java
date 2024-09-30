@@ -23,6 +23,7 @@ public class LogicalOperatorExample {
 		if((value%2 == 0) || (value%3 == 0)) {
 			System.out.println("2 또는 3의 배수 이군요.");
 		}
+		//두개 모두참
 	}
 
 }
