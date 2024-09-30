@@ -1,5 +1,5 @@
 package ex930;
-
+//char operator
 public class CharOperatorExample {
 
 	public static void main(String[] args) {
