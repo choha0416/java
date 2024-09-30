@@ -1,5 +1,5 @@
 package ex930;
-
+//
 public class InputDataCheckNaNExample {
 
 	public static void main(String[] args) {
