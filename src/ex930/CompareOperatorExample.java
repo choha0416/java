@@ -1,5 +1,5 @@
 package ex930;
-//비교연산자
+//비교연산
 public class CompareOperatorExample {
 
 	public static void main(String[] args) {
