@@ -1,5 +1,5 @@
 package ex930;
-
+//비트연산
 public class BitLogicalExample {
 
 	public static void main(String[] args) {
