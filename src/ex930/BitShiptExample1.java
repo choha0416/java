@@ -1,5 +1,5 @@
 package ex930;
-
+// <<= 2를n번 곱하기 >> = 2를 n번 나누기
 public class BitShiptExample1 {
 
 	public static void main(String[] args) {
