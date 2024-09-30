@@ -16,3 +16,4 @@ public class AccuracyExample1 {
 	}
 
 }
+// double형 이기때문에 결과값이 0.3이아닌 0.29999999999999993로 원하는 값을 얻어낼수 없다
