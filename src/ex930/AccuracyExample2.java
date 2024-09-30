@@ -18,3 +18,4 @@ public class AccuracyExample2 {
 	}
 
 }
+//정수로 변환한뒤 값을내고 다시 나눠주었기 때문에 원하는 값을 얻을수 있다
