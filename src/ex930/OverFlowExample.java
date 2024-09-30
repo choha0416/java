@@ -8,6 +8,7 @@ public class OverFlowExample {
 		int x = 1000000;
 		int y = 1000000;
 		int z = x*y;
+  		int형의 범위를 벗어나기때문에 long형으로 선언해줘야함
 		*/
 		
 		long x = 1000000;
