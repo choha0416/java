@@ -1,5 +1,5 @@
 package ex930;
-
+//비트반전연산자
 public class BitReverseOperatorExample {
 
 	public static void main(String[] args) {
