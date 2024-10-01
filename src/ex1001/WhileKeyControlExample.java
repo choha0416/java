@@ -9,7 +9,7 @@ public class WhileKeyControlExample {
 		int keyCode = 0;
 		
 		while(run) {
-			if(keyCode!=13 && keyCode!=10) { //13과 10은 엔터를 나타냄
+			if(keyCode!=13 && keyCode!=10) { //13과 10은 엔터를 나타냄 
 				System.out.println("--------------------------");
 				System.out.println("1.증속 | 2. 감속 | 3.중지 ");
 				System.out.println("--------------------------");
