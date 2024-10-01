@@ -1,6 +1,6 @@
 package ex1001;
 
-public class SwichNoVreajCaseExample {
+public class SwichNobreakCaseExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
