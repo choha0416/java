@@ -1,5 +1,5 @@
 package ex1002;
-
+//배열 복사
 public class ArrayCopyByforExample {
 
 	public static void main(String[] args) {
@@ -18,3 +18,4 @@ public class ArrayCopyByforExample {
 	}
 
 }
+//이미 생성된 배열안의 값을 더 큰 공간의 배열로 복사하는 코드
