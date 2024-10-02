@@ -1,5 +1,5 @@
 package ex1002;
-
+//문자열에서 특정 문자열의 위치를 찾고자 할때 사용
 public class IndexOfContainsExample {
 
 	public static void main(String[] args) {
