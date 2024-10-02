@@ -1,5 +1,5 @@
 package ex1002;
-
+//배열을 사용한for문
 public class AdvancedForExample {
 
 	public static void main(String[] args) {
