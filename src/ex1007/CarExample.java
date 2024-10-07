@@ -1,7 +1,5 @@
 package ex1007;
 
-import ex1002.Car1;
-
 public class CarExample {
 
 	public static void main(String[] args) {
