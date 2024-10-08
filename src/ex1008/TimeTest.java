@@ -1,5 +1,5 @@
 package ex1008;
-
+//접근제한자사용 캡슐화
 public class TimeTest {
 
 	public static void main(String[] args) {
@@ -26,10 +26,10 @@ class Time{
 	
 	public int getHour() {return hour;}
 	public void setHour(int hour) {
-		if(hour < 0 || hour >23) {
+		if(hour < 0 || hour >23) {//유효성 검사
 			return;
 		}
-		this.hour = hour;
+		this.hour = hour; //조건이 해당하지 않을경우 hour에 값을 넣음 >> setHour(hour)
 	}
 	
 	public int getMinute() {return minute;}
