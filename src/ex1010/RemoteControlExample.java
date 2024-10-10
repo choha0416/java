@@ -10,7 +10,7 @@ public class RemoteControlExample {
 		rc = new Audio();
 		
 		RemoteControl.changeBattry();
-		*/
+		
 		RemoteControl rc = new SmartTelevision();
 		System.out.println("미션1");
 		rc.setVolume(5);
@@ -18,6 +18,18 @@ public class RemoteControlExample {
 		rc.turnON();
 		rc.setMute(true);
 		rc.turnOff();
+		
+		 */
+		
+		RemoteControl rc = null;
+		
+		rc = new Television();
+		rc.turnON();
+		rc.setMute(true);
+		
+		rc = new Audio();
+		rc.turnON();
+		rc.setMute(true);
 	}
 
 }
