@@ -1,5 +1,5 @@
 package ex1011;
-
+//객체 동등비교
 public class Member {
 	public String id;
 	
