@@ -1,5 +1,5 @@
 package ex1011;
-
+//toString
 public class SmartPhoneExample {
 
 	public static void main(String[] args) {
