@@ -1,5 +1,5 @@
 package ex1011;
-
+//toString
 public class SmartPhone {
 	private String company;
 	private String os;
